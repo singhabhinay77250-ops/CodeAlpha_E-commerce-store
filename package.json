@@ -1,0 +1,17 @@
+{
+    "name": "product-list-app",
+    "version": "1.0.0",
+    "description": "A web application to manage a list of products",
+    "main": "app.js",
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.13.7",
+      "body-parser": "^1.19.0"
+    },
+    "scripts": {
+      "start": "node backend/app.js"
+    },
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
